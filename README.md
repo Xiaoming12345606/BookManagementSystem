@@ -37,6 +37,7 @@
     - 在connectionInfo.properties中配置数据库连接信息
     - 将src下面的lms.sql脚本导入数据库构建数据库
     - 找到lms包的LMS主类启动即可
+    - 管理员账号和密码在src下面的administrator.properties中
 
   - 贡献
 
