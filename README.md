@@ -6,11 +6,11 @@
 
   - 登录界面展示
 
-    <img src="/Users/sxm/Library/Application Support/typora-user-images/截屏2022-05-11 22.05.54.png" alt="截屏2022-05-11 22.05.54" style="zoom:50%;" />
+    <img src="./img/截屏2022-05-11 22.05.54.png" alt="截屏2022-05-11 22.05.54" style="zoom:50%;" />
 
   - 注册界面展示
 
-    <img src="/Users/sxm/Library/Application Support/typora-user-images/截屏2022-05-11 22.08.07.png" alt="截屏2022-05-11 22.08.07" style="zoom:50%;" />
+    <img src="./img/截屏2022-05-11 22.08.07.png" alt="截屏2022-05-11 22.08.07" style="zoom:50%;" />
 
     - 注册是系统会为用户自动分配随机账号
 
@@ -18,26 +18,26 @@
 
     - 图书的添加页面
 
-    ![截屏2022-05-11 22.09.46](/Users/sxm/Library/Application Support/typora-user-images/截屏2022-05-11 22.09.46.png)
+    ![截屏2022-05-11 22.09.46](./img/截屏2022-05-11 22.09.46.png)
 
     - 图书管理界面
 
-      ![截屏2022-05-11 22.10.56](/Users/sxm/Library/Application Support/typora-user-images/截屏2022-05-11 22.10.56.png)
+      ![截屏2022-05-11 22.10.56](./img/截屏2022-05-11 22.10.56.png)
 
   - 用户界面展示
 
     - 图书借阅界面
 
-      ![截屏2022-05-11 22.13.45](/Users/sxm/Library/Application Support/typora-user-images/截屏2022-05-11 22.13.45.png)
+      ![截屏2022-05-11 22.13.45](./img/截屏2022-05-11 22.13.45.png)
 
     - 我的图书界面
 
-      ![截屏2022-05-11 22.14.47](/Users/sxm/Library/Application Support/typora-user-images/截屏2022-05-11 22.14.47.png)
+      ![截屏2022-05-11 22.14.47](./img/截屏2022-05-11 22.14.47.png)
 
   - 食用方法
 
     - clone或者下载zip，然后用intellij idea 打开
-    - 在connectionlnfo.properties中配置数据库连接信息
+    - 在connectionInfo.properties中配置数据库连接信息
     - 将src下面的lms.sql脚本导入数据库构建数据库
     - 找到lms包的LMS主类启动即可
 
